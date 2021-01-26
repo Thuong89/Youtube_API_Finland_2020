@@ -5,7 +5,7 @@
 Use developed model to get >2000 videos published in 2020 with titles contain "Finland".
 2. Clean, process, make Data Exploration Analysis basing on the collected data, generate report "Youtube Finland in 2020"
 
-<b>Technology:</b>
+<b>Tech stacks:</b>
 - Youtube_API
 - Pandas
 - Pycountry
